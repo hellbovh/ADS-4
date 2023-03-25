@@ -46,6 +46,7 @@ int countPairs3(int *arr, int len, int value) {
           counter++;
           temp++;
         }
+        break;
       }
     }
   }
